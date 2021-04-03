@@ -24,3 +24,4 @@ Esse Projeto tem por finalidade praticar conceitos de motion no front-end, aplic
 
 ## Links
 
+**https://josmar-jr.github.io/redesign-nubank/**
